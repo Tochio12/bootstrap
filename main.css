@@ -89,8 +89,8 @@ body {
 	border-radius: 0;
 }
 .features .btn {
-    background-color: #589b37;
-    border: 1px solid #589b37;
+    background-color: lightblue;
+    border: 1px solid lightblue;
     color: #fff;
     margin-top: 20px;
 }
@@ -99,7 +99,7 @@ body {
     border: 1px solid #333;
 }
 .background {
-	background: #dedec8;
+	background: lightblue;
 	padding: 4em 0;
 }
 .team {
